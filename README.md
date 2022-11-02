@@ -1,3 +1,4 @@
+![1](https://user-images.githubusercontent.com/117192490/199535631-cbf69a20-c1ba-4ec4-94b7-25a365f9cc93.jpg)
 # ipa re-sign tool
 IOS Apple ipa re-signature tool for internal use (support Windows and Macos)
 
