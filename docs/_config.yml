@@ -1,0 +1,18 @@
+# Setup
+title: 测试
+tagline: A responsive theme for your project on GitHub Pages
+baseurl: "/docs"
+paginate: 1
+locale: "zh-cn"
+
+# About/contact
+author:
+  name: kieey
+  url: http://github.com/Kieey/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
